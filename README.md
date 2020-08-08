@@ -16,7 +16,7 @@ Based on react-chat-window from https://github.com/kingofthestack/react-chat-win
 ## Installation
 
 ```
-$ npm install react-chat-window
+$ npm install twilio-react-chat-window
 ```
 
 ## Example
@@ -139,7 +139,3 @@ Look like this:
   teamName: 'Da best'
 }
 ```
-
-## Building
-
-Run `npm run build` before publishing to create ES and UMD modules.

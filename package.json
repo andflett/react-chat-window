@@ -36,8 +36,8 @@
     "react": "15.6.1",
     "react-dom": "15.6.1"
   },
-  "author": "kingofthestack",
-  "homepage": "https://kingofthestack.github.io/react-chat-window/",
+  "author": "andrewflett",
+  "homepage": "https://github.com/andflett/react-chat-window",
   "license": "MIT",
   "repository": {
     "type": "git",
