@@ -1,29 +1,17 @@
-# react-chat-window
+# twilio-react-chat-window
 
-`react-chat-window` provides an intercom-like chat window that can be included easily in any project for free. It provides no messaging facilities, only the view component.
+`twilio-react-chat-window` provides an intercom-like chat window that can be included easily in any project and integrated into Twilio. It provides no messaging facilities, only the view components.
 
-![GitHub license](https://img.shields.io/github/package-json/v/kingofthestack/react-chat-window.svg?style=flat-square) <a href="https://www.npmjs.com/package/react-chat-window" target="\_parent">
-  <img alt="" src="https://img.shields.io/npm/dm/react-chat-window.svg" />
-</a>
-<a href="https://github.com/kingofthestack/react-chat-window" target="\_parent">
-  <img alt="" src="https://img.shields.io/github/stars/kingofthestack/react-chat-window.svg?style=social&label=Star" />
-</a>
-<br/>
+Based on react-chat-window from https://github.com/kingofthestack/react-chat-window
 
 ![Demo gif of react-chat-window being used](https://puu.sh/xei2F/fd4a121185.gif)
-
-## Features
-
-- Customizeable
-- Backend agnostic
-- Free
 
 ## [Demo](https://kingofthestack.github.io/react-chat-window/)
 
 ## Table of Contents
 - [Installation](#installation)
 - [Example](#example)
-- [Components](#api)
+- [Components](#components)
 
 ## Installation
 
@@ -152,6 +140,6 @@ Look like this:
 }
 ```
 
-## People Using react-chat-window
+## Building
 
-If you're using react-chat-window in a product I'd love to see what you're making! Email me at dylan@kingofthestack.com
+Run `npm run build` before publishing to create ES and UMD modules.
